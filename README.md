@@ -13,3 +13,4 @@ Key Features:
 ✅ Comprehensive Expenses Table: Track all your expenses across various categories (Rent, Groceries, Utilities, Transportation, Entertainment, Miscellaneous) with monthly details. 
 ✅ Automated Calculations: Calculate total income, total expenses, and monthly savings automatically. ✅ Conditional Formatting: Highlight monthly savings in yellow if they fall below the targeted savings amount
 
+template-- https://1drv.ms/x/s!Am7cvUQAWlfafQ8_GXWMt5Tu_g0?e=gjOYOW
